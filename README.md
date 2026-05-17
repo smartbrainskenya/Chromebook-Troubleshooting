@@ -1,6 +1,4 @@
 # Chromebook Timezone & Firmware Troubleshooting Script
-# Chromebook Timezone & Firmware Troubleshooting Script
-
 [![Bash](https://img.shields.io/badge/Bash-4.0+-blue.svg)](https://www.gnu.org/software/bash/)
 [![ChromeOS](https://img.shields.io/badge/ChromeOS-100+-green.svg)](https://www.chromium.org/chromium-os/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -74,14 +72,14 @@ A lightweight, automated diagnostic and remediation bash script designed to iden
 ### Option 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/chromebook-troubleshoot.git
+git clone https://github.com/gamm3r96/chromebook-troubleshoot.git
 cd chromebook-troubleshoot
 ```
 
 ### Option 2: Download Directly
 
 ```bash
-curl -O https://raw.githubusercontent.com/yourusername/chromebook-troubleshoot/main/chromebook_troubleshoot.sh
+curl -O https://raw.githubusercontent.com/gamm3r96/chromebook-troubleshoot/main/chromebook_troubleshoot.sh
 ```
 
 ### Option 3: Manual Creation
