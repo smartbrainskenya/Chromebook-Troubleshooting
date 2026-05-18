@@ -12,7 +12,7 @@
 clear
 
 echo "==============================================="
-echo " Chromebook Troubleshooting Utility"
+echo " Chromebook Troubleshooting Utility version 1"
 echo " Author: Elvis Gatwara"
 echo "==============================================="
 echo ""
