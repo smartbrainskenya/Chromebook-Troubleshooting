@@ -261,7 +261,7 @@ SOFTWARE.
 **Elvis Gatwara**
 
 - GitHub: [@gamm3r96](https://github.com/gamm3r96)
-- Role: IT Support & Systems Administrator
+- Role: IT Support, Network engineer, software/hardware maintainer & Systems Administrator
 
 
 ## 🙏 Acknowledgments
